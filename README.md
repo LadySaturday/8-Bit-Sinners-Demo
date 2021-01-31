@@ -4,6 +4,8 @@ An 8-bit mature puzzle game that puts the fate of a charming town -- humanity --
 This project is currently on its way to being crowd funded, and the abilities in this demo do not compare to what is planned.
 In the meantime, enjoy the carefully constructed town.
 
+https://ladysaturday.github.io/8-Bit-Sinners-Demo/
+
 Instructions:
 1. WASD to move/select dialog options
 2. E to interact
